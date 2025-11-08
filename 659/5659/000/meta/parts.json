@@ -1,0 +1,22 @@
+[
+    {
+        "pageCount": 272,
+        "firstPageId": 1,
+        "lastPageId": 274,
+        "firstPage": 1,
+        "lastPage": 271,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "659\/5659\/001"
+    },
+    {
+        "pageCount": 2,
+        "firstPageId": 2,
+        "lastPageId": 3,
+        "firstPage": 2,
+        "lastPage": 3,
+        "partName": "مقدمة",
+        "partFolderName": "مقدمة",
+        "partPath": "659\/5659\/مقدمة"
+    }
+]
