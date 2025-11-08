@@ -1,0 +1,252 @@
+[
+    {
+        "pageCount": 325,
+        "firstPageId": 1,
+        "lastPageId": 325,
+        "firstPage": 2,
+        "lastPage": 326,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "643\/3643\/001"
+    },
+    {
+        "pageCount": 302,
+        "firstPageId": 326,
+        "lastPageId": 627,
+        "firstPage": 2,
+        "lastPage": 305,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "643\/3643\/002"
+    },
+    {
+        "pageCount": 317,
+        "firstPageId": 628,
+        "lastPageId": 944,
+        "firstPage": 2,
+        "lastPage": 318,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "643\/3643\/003"
+    },
+    {
+        "pageCount": 306,
+        "firstPageId": 945,
+        "lastPageId": 1250,
+        "firstPage": 2,
+        "lastPage": 307,
+        "partName": "4",
+        "partFolderName": "004",
+        "partPath": "643\/3643\/004"
+    },
+    {
+        "pageCount": 311,
+        "firstPageId": 1251,
+        "lastPageId": 1561,
+        "firstPage": 2,
+        "lastPage": 312,
+        "partName": "5",
+        "partFolderName": "005",
+        "partPath": "643\/3643\/005"
+    },
+    {
+        "pageCount": 309,
+        "firstPageId": 1562,
+        "lastPageId": 1870,
+        "firstPage": 2,
+        "lastPage": 310,
+        "partName": "6",
+        "partFolderName": "006",
+        "partPath": "643\/3643\/006"
+    },
+    {
+        "pageCount": 318,
+        "firstPageId": 1871,
+        "lastPageId": 2188,
+        "firstPage": 2,
+        "lastPage": 319,
+        "partName": "7",
+        "partFolderName": "007",
+        "partPath": "643\/3643\/007"
+    },
+    {
+        "pageCount": 312,
+        "firstPageId": 2189,
+        "lastPageId": 2500,
+        "firstPage": 2,
+        "lastPage": 313,
+        "partName": "8",
+        "partFolderName": "008",
+        "partPath": "643\/3643\/008"
+    },
+    {
+        "pageCount": 304,
+        "firstPageId": 2501,
+        "lastPageId": 2804,
+        "firstPage": 2,
+        "lastPage": 305,
+        "partName": "9",
+        "partFolderName": "009",
+        "partPath": "643\/3643\/009"
+    },
+    {
+        "pageCount": 305,
+        "firstPageId": 2805,
+        "lastPageId": 3109,
+        "firstPage": 2,
+        "lastPage": 306,
+        "partName": "10",
+        "partFolderName": "010",
+        "partPath": "643\/3643\/010"
+    },
+    {
+        "pageCount": 306,
+        "firstPageId": 3110,
+        "lastPageId": 3415,
+        "firstPage": 2,
+        "lastPage": 307,
+        "partName": "11",
+        "partFolderName": "011",
+        "partPath": "643\/3643\/011"
+    },
+    {
+        "pageCount": 299,
+        "firstPageId": 3416,
+        "lastPageId": 3714,
+        "firstPage": 2,
+        "lastPage": 300,
+        "partName": "12",
+        "partFolderName": "012",
+        "partPath": "643\/3643\/012"
+    },
+    {
+        "pageCount": 305,
+        "firstPageId": 3715,
+        "lastPageId": 4019,
+        "firstPage": 2,
+        "lastPage": 306,
+        "partName": "13",
+        "partFolderName": "013",
+        "partPath": "643\/3643\/013"
+    },
+    {
+        "pageCount": 310,
+        "firstPageId": 4020,
+        "lastPageId": 4329,
+        "firstPage": 2,
+        "lastPage": 311,
+        "partName": "14",
+        "partFolderName": "014",
+        "partPath": "643\/3643\/014"
+    },
+    {
+        "pageCount": 311,
+        "firstPageId": 4330,
+        "lastPageId": 4640,
+        "firstPage": 2,
+        "lastPage": 312,
+        "partName": "15",
+        "partFolderName": "015",
+        "partPath": "643\/3643\/015"
+    },
+    {
+        "pageCount": 309,
+        "firstPageId": 4641,
+        "lastPageId": 4949,
+        "firstPage": 2,
+        "lastPage": 310,
+        "partName": "16",
+        "partFolderName": "016",
+        "partPath": "643\/3643\/016"
+    },
+    {
+        "pageCount": 314,
+        "firstPageId": 4950,
+        "lastPageId": 5263,
+        "firstPage": 2,
+        "lastPage": 315,
+        "partName": "17",
+        "partFolderName": "017",
+        "partPath": "643\/3643\/017"
+    },
+    {
+        "pageCount": 312,
+        "firstPageId": 5264,
+        "lastPageId": 5575,
+        "firstPage": 2,
+        "lastPage": 313,
+        "partName": "18",
+        "partFolderName": "018",
+        "partPath": "643\/3643\/018"
+    },
+    {
+        "pageCount": 313,
+        "firstPageId": 5576,
+        "lastPageId": 5888,
+        "firstPage": 2,
+        "lastPage": 314,
+        "partName": "19",
+        "partFolderName": "019",
+        "partPath": "643\/3643\/019"
+    },
+    {
+        "pageCount": 313,
+        "firstPageId": 5889,
+        "lastPageId": 6201,
+        "firstPage": 2,
+        "lastPage": 314,
+        "partName": "20",
+        "partFolderName": "020",
+        "partPath": "643\/3643\/020"
+    },
+    {
+        "pageCount": 312,
+        "firstPageId": 6202,
+        "lastPageId": 6513,
+        "firstPage": 2,
+        "lastPage": 313,
+        "partName": "21",
+        "partFolderName": "021",
+        "partPath": "643\/3643\/021"
+    },
+    {
+        "pageCount": 310,
+        "firstPageId": 6514,
+        "lastPageId": 6823,
+        "firstPage": 2,
+        "lastPage": 311,
+        "partName": "22",
+        "partFolderName": "022",
+        "partPath": "643\/3643\/022"
+    },
+    {
+        "pageCount": 296,
+        "firstPageId": 6824,
+        "lastPageId": 7119,
+        "firstPage": 2,
+        "lastPage": 297,
+        "partName": "23",
+        "partFolderName": "023",
+        "partPath": "643\/3643\/023"
+    },
+    {
+        "pageCount": 282,
+        "firstPageId": 7120,
+        "lastPageId": 7401,
+        "firstPage": 2,
+        "lastPage": 283,
+        "partName": "24",
+        "partFolderName": "024",
+        "partPath": "643\/3643\/024"
+    },
+    {
+        "pageCount": 202,
+        "firstPageId": 7402,
+        "lastPageId": 7603,
+        "firstPage": 2,
+        "lastPage": 203,
+        "partName": "25",
+        "partFolderName": "025",
+        "partPath": "643\/3643\/025"
+    }
+]
