@@ -1,0 +1,32 @@
+[
+    {
+        "pageCount": 399,
+        "firstPageId": 1,
+        "lastPageId": 399,
+        "firstPage": 63,
+        "lastPage": 464,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "696\/3696\/001"
+    },
+    {
+        "pageCount": 545,
+        "firstPageId": 400,
+        "lastPageId": 944,
+        "firstPage": 5,
+        "lastPage": 551,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "696\/3696\/002"
+    },
+    {
+        "pageCount": 158,
+        "firstPageId": 945,
+        "lastPageId": 1102,
+        "firstPage": 5,
+        "lastPage": 167,
+        "partName": "3",
+        "partFolderName": "003",
+        "partPath": "696\/3696\/003"
+    }
+]
